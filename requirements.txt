@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-ollama
+chromadb
+unstructured[all-docs]
+unstructured_inference
+pdf2image
+pillow
+poppler-utils
+pdfplumber
+nomic
+nltk
+scipy
+ollama
+streamlit
+pi-heif
